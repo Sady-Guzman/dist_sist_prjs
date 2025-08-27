@@ -1,11 +1,1 @@
 hola
-
-main()
-    print("ingrese 2 numeros"):
-    input()
-    input()
-
-    c = a + b 
-
-    print(c)
-
